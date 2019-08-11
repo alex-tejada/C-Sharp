@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.pdb

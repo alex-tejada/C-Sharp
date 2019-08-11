@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\bin\Debug\ConsolePolimorfismoHerencia.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\bin\Debug\ConsolePolimorfismoHerencia.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\bin\Debug\ConsolePolimorfismoHerencia.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\obj\Debug\ConsolePolimorfismoHerencia.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\obj\Debug\ConsolePolimorfismoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\obj\Debug\ConsolePolimorfismoHerencia.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolePolimorfismoHerencia\ConsolePolimorfismoHerencia\obj\Debug\ConsolePolimorfismoHerencia.pdb

@@ -1,0 +1,12 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.Form1.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.pdb

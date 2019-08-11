@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\bin\Debug\ConsolaAlumnos.exe.config
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\bin\Debug\ConsolaAlumnos.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\bin\Debug\ConsolaAlumnos.pdb
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\obj\Debug\ConsolaAlumnos.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\obj\Debug\ConsolaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\obj\Debug\ConsolaAlumnos.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaAlumnos\ConsolaAlumnos\obj\Debug\ConsolaAlumnos.pdb

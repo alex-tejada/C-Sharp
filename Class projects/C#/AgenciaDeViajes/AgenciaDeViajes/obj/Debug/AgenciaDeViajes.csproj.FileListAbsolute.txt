@@ -1,0 +1,10 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\bin\Debug\AgenciaDeViajes.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.Form1.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.Properties.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\AgenciaDeViajes\AgenciaDeViajes\obj\Debug\AgenciaDeViajes.pdb

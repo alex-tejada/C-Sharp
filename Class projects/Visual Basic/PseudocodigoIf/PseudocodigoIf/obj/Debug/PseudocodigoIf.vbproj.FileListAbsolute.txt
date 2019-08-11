@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\bin\Debug\PseudocodigoIf.exe.config
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\bin\Debug\PseudocodigoIf.exe
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\bin\Debug\PseudocodigoIf.pdb
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\bin\Debug\PseudocodigoIf.xml
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.Resources.resources
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.exe
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.xml
+C:\Users\alex-\Desktop\Ejercicios VB\PseudocodigoIf\PseudocodigoIf\obj\Debug\PseudocodigoIf.pdb

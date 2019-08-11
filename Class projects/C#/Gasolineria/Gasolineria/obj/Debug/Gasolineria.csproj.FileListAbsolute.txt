@@ -1,0 +1,10 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\bin\Debug\Gasolineria.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\bin\Debug\Gasolineria.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\bin\Debug\Gasolineria.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.Form1.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.Properties.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\Gasolineria\Gasolineria\obj\Debug\Gasolineria.pdb

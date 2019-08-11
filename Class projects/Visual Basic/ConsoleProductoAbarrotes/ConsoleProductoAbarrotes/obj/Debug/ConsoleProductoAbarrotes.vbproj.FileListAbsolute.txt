@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\bin\Debug\ConsoleProductoAbarrotes.exe.config
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\bin\Debug\ConsoleProductoAbarrotes.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\bin\Debug\ConsoleProductoAbarrotes.pdb
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\bin\Debug\ConsoleProductoAbarrotes.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.Resources.resources
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleProductoAbarrotes\ConsoleProductoAbarrotes\obj\Debug\ConsoleProductoAbarrotes.pdb

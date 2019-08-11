@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\bin\Debug\ConsoleBurritosHamburguesa.exe.config
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\bin\Debug\ConsoleBurritosHamburguesa.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\bin\Debug\ConsoleBurritosHamburguesa.pdb
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\obj\Debug\ConsoleBurritosHamburguesa.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\obj\Debug\ConsoleBurritosHamburguesa.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\obj\Debug\ConsoleBurritosHamburguesa.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsoleBurritosHamburguesa\ConsoleBurritosHamburguesa\obj\Debug\ConsoleBurritosHamburguesa.pdb

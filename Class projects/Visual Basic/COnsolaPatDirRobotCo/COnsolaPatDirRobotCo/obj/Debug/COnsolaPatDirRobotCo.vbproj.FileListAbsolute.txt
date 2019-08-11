@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\bin\Debug\COnsolaPatDirRobotCo.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\bin\Debug\COnsolaPatDirRobotCo.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\bin\Debug\COnsolaPatDirRobotCo.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\bin\Debug\COnsolaPatDirRobotCo.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\COnsolaPatDirRobotCo\COnsolaPatDirRobotCo\obj\Debug\COnsolaPatDirRobotCo.pdb

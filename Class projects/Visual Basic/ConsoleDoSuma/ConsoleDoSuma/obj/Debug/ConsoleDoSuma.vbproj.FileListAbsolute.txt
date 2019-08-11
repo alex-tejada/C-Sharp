@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\bin\Debug\ConsoleDoSuma.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\bin\Debug\ConsoleDoSuma.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\bin\Debug\ConsoleDoSuma.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\bin\Debug\ConsoleDoSuma.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleDoSuma\ConsoleDoSuma\obj\Debug\ConsoleDoSuma.pdb

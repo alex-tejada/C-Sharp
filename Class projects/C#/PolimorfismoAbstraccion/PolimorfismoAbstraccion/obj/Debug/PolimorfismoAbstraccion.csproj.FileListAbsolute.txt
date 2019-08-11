@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\bin\Debug\PolimorfismoAbstraccion.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\bin\Debug\PolimorfismoAbstraccion.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\bin\Debug\PolimorfismoAbstraccion.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\obj\Debug\PolimorfismoAbstraccion.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\obj\Debug\PolimorfismoAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\obj\Debug\PolimorfismoAbstraccion.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoAbstraccion\PolimorfismoAbstraccion\obj\Debug\PolimorfismoAbstraccion.pdb

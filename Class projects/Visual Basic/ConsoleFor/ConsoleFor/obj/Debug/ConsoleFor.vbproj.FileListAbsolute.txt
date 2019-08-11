@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\bin\Debug\ConsoleFor.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\bin\Debug\ConsoleFor.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\bin\Debug\ConsoleFor.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\bin\Debug\ConsoleFor.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleFor\ConsoleFor\obj\Debug\ConsoleFor.pdb

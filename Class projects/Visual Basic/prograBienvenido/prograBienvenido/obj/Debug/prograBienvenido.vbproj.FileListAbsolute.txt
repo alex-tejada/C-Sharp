@@ -1,0 +1,12 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.Form1.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.pdb

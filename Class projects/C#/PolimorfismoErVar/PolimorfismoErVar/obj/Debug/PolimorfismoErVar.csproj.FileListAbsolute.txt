@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\bin\Debug\PolimorfismoErVar.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\bin\Debug\PolimorfismoErVar.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\bin\Debug\PolimorfismoErVar.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\obj\Debug\PolimorfismoErVar.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\obj\Debug\PolimorfismoErVar.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\obj\Debug\PolimorfismoErVar.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\PolimorfismoErVar\PolimorfismoErVar\obj\Debug\PolimorfismoErVar.pdb

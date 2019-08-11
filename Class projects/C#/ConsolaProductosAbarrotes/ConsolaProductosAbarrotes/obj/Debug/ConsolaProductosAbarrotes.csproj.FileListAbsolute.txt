@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\bin\Debug\ConsolaProductosAbarrotes.exe.config
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\bin\Debug\ConsolaProductosAbarrotes.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\bin\Debug\ConsolaProductosAbarrotes.pdb
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\obj\Debug\ConsolaProductosAbarrotes.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\obj\Debug\ConsolaProductosAbarrotes.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\obj\Debug\ConsolaProductosAbarrotes.exe
+C:\Users\alex-\Desktop\Ejercicios C#\ConsolaProductosAbarrotes\ConsolaProductosAbarrotes\obj\Debug\ConsolaProductosAbarrotes.pdb

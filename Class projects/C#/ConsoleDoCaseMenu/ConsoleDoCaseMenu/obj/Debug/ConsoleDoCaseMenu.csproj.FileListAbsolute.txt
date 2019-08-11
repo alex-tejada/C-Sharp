@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\bin\Debug\ConsoleDoCaseMenu.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\bin\Debug\ConsoleDoCaseMenu.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\bin\Debug\ConsoleDoCaseMenu.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\obj\Debug\ConsoleDoCaseMenu.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\obj\Debug\ConsoleDoCaseMenu.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\obj\Debug\ConsoleDoCaseMenu.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoCaseMenu\ConsoleDoCaseMenu\obj\Debug\ConsoleDoCaseMenu.pdb

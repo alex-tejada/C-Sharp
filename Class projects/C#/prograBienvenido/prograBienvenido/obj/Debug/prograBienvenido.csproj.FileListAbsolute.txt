@@ -1,0 +1,10 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\bin\Debug\prograBienvenido.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.Form1.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.Properties.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\prograBienvenido\prograBienvenido\obj\Debug\prograBienvenido.pdb

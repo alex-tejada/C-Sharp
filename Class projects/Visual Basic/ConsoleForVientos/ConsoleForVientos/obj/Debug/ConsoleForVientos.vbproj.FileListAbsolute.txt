@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\bin\Debug\ConsoleForVientos.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\bin\Debug\ConsoleForVientos.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\bin\Debug\ConsoleForVientos.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\bin\Debug\ConsoleForVientos.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsoleForVientos\ConsoleForVientos\obj\Debug\ConsoleForVientos.pdb

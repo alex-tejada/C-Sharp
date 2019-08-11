@@ -1,0 +1,10 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Properties.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Form1.resources

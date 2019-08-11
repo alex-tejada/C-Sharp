@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\bin\Debug\ConsoleDoWhileGato.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsoleDoWhileGato\ConsoleDoWhileGato\obj\Debug\ConsoleDoWhileGato.pdb

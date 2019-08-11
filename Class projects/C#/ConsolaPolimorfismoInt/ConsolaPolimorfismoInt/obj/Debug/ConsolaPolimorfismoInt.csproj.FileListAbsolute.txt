@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.pdb

@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\bin\Debug\ConsolaPatDisRobot.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\bin\Debug\ConsolaPatDisRobot.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\bin\Debug\ConsolaPatDisRobot.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\bin\Debug\ConsolaPatDisRobot.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPatDisRobot\ConsolaPatDisRobot\obj\Debug\ConsolaPatDisRobot.pdb

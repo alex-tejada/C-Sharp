@@ -1,0 +1,11 @@
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\bin\Debug\netcoreapp2.1\ConsoleSwitchCase.deps.json
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\bin\Debug\netcoreapp2.1\ConsoleSwitchCase.runtimeconfig.json
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\bin\Debug\netcoreapp2.1\ConsoleSwitchCase.runtimeconfig.dev.json
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\bin\Debug\netcoreapp2.1\ConsoleSwitchCase.dll
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\bin\Debug\netcoreapp2.1\ConsoleSwitchCase.pdb
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.vbprojAssemblyReference.cache
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.AssemblyInfoInputs.cache
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.AssemblyInfo.vb
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.dll
+C:\Users\alex-\source\repos\ConsoleSwitchCase\ConsoleSwitchCase\obj\Debug\netcoreapp2.1\ConsoleSwitchCase.pdb

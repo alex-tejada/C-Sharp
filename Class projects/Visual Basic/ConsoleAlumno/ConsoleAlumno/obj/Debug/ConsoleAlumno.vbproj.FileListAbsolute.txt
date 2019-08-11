@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\bin\Debug\ConsoleAlumno.exe.config
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\bin\Debug\ConsoleAlumno.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\bin\Debug\ConsoleAlumno.pdb
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\bin\Debug\ConsoleAlumno.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.Resources.resources
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleAlumno\ConsoleAlumno\obj\Debug\ConsoleAlumno.pdb

@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\bin\Debug\ConsolaPatDirRobotCo.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\bin\Debug\ConsolaPatDirRobotCo.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\bin\Debug\ConsolaPatDirRobotCo.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\obj\Debug\ConsolaPatDirRobotCo.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\obj\Debug\ConsolaPatDirRobotCo.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\obj\Debug\ConsolaPatDirRobotCo.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDirRobotCo\ConsolaPatDirRobotCo\obj\Debug\ConsolaPatDirRobotCo.pdb

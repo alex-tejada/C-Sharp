@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaProductosAbarrotes", "ConsolaProductosAbarrotes\ConsolaProductosAbarrotes.csproj", "{F5DA57F2-A3DD-43B1-9F56-C0F0B28D2AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DA57F2-A3DD-43B1-9F56-C0F0B28D2AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DA57F2-A3DD-43B1-9F56-C0F0B28D2AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DA57F2-A3DD-43B1-9F56-C0F0B28D2AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DA57F2-A3DD-43B1-9F56-C0F0B28D2AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183C4870-955C-4FF0-A89F-0B85F72B8B64}
+	EndGlobalSection
+EndGlobal

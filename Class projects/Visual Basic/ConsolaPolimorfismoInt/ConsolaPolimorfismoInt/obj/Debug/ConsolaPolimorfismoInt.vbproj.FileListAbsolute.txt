@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\bin\Debug\ConsolaPolimorfismoInt.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.Resources.resources
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.xml
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios VB\ConsolaPolimorfismoInt\ConsolaPolimorfismoInt\obj\Debug\ConsolaPolimorfismoInt.pdb

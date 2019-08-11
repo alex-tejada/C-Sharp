@@ -1,0 +1,11 @@
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\bin\Debug\ConsoleHamburguesaBurrito.exe.config
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\bin\Debug\ConsoleHamburguesaBurrito.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\bin\Debug\ConsoleHamburguesaBurrito.pdb
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\bin\Debug\ConsoleHamburguesaBurrito.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.vbprojAssemblyReference.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.Resources.resources
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.vbproj.GenerateResource.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.vbproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.exe
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.xml
+C:\Users\alex-\Desktop\Ejercicios VB\ConsoleHamburguesaBurrito\ConsoleHamburguesaBurrito\obj\Debug\ConsoleHamburguesaBurrito.pdb

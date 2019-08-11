@@ -1,0 +1,7 @@
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\bin\Debug\ConsolaPatDisSC.exe.config
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\bin\Debug\ConsolaPatDisSC.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\bin\Debug\ConsolaPatDisSC.pdb
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\obj\Debug\ConsolaPatDisSC.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\obj\Debug\ConsolaPatDisSC.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\obj\Debug\ConsolaPatDisSC.exe
+C:\Users\alex-\Desktop\PROGRAM\Ejercicios C#\ConsolaPatDisSC\ConsolaPatDisSC\obj\Debug\ConsolaPatDisSC.pdb

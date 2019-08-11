@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoAbstraccion", "PolimorfismoAbstraccion\PolimorfismoAbstraccion.csproj", "{F266571F-2830-4704-8EDB-2376D4EFF7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F266571F-2830-4704-8EDB-2376D4EFF7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F266571F-2830-4704-8EDB-2376D4EFF7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F266571F-2830-4704-8EDB-2376D4EFF7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F266571F-2830-4704-8EDB-2376D4EFF7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678BB43F-0FCA-4C52-A9CB-B1A5439A5A10}
+	EndGlobalSection
+EndGlobal
