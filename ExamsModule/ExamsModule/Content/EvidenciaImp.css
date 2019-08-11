@@ -1,0 +1,20 @@
+﻿body {
+}
+.pdluma{
+    padding:5vh;
+}
+.pdnormal{
+    padding: 2vh;
+}
+.bots{
+    width:13vh;
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
+    cursor:pointer;
+}
+.pbot{
+    padding-bottom: 3vh;
+}
+.titulo{
+    color: #005691;
+}

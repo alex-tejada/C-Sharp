@@ -1,0 +1,148 @@
+﻿body {
+    font-family: 'Bosch Office Sans';
+}
+
+h1 {
+    color: white;
+    font-size: 4vh;
+}
+
+::placeholder{
+    color:#C2C3C9;
+}
+
+.inputsug {
+    height: 8vh;
+    font-size: 3vh;
+    width: 95%;
+    color: lightslategray;
+    padding: 1vh;
+    border-radius: 1vh;
+    margin-bottom: 3vh;
+}
+
+.inputpass {
+    height: 6vh;
+    font-size: 1.5rem;
+    width: 95%;
+    color: lightslategray;
+    padding: 1vh;
+    border-radius: 1vh;
+    margin-bottom: 2rem;
+}
+
+.row-pass {
+    margin-top: 2rem;
+}
+
+.botonesa {
+    margin-top: 3vh;
+    width: 18vh;
+    height: 5.7vh;
+    padding: 0;
+    cursor: pointer;
+}
+
+.btn-pass {
+    text-align: right;
+}
+
+.entrar {
+    background-color: #33ccff;
+    width: 90%;
+    height: 6vh;
+    border-radius: 1vh;
+    font-size: 2.5vh;
+    font-weight: bold;
+    border-color: #33ccff;
+}
+
+    .entrar:hover {
+        background-color: #33ccff;
+        width: 90%;
+        height: 6vh;
+        border-radius: 1vh;
+        font-size: 2.5vh;
+        font-weight: bold;
+        border-color: #33ccff;
+        box-shadow: 5px 10px;
+    }
+
+.cancelar {
+    background-color: red;
+    width: 90%;
+    height: 6vh;
+    border-radius: 1vh;
+    font-size: 2vh;
+    font-size: 2.5vh;
+    font-weight: bold;
+    border-color: red;
+}
+
+    .cancelar:hover {
+        background-color: red;
+        width: 90%;
+        height: 6vh;
+        border-radius: 1vh;
+        font-size: 2vh;
+        font-size: 2.5vh;
+        font-weight: bold;
+        border-color: red;
+        box-shadow: 5px 10px;
+    }
+
+.upper {
+    min-height: 20vh;
+    width: 100%;
+}
+
+.logo {
+    background-color: white;
+    position: absolute;
+    top: 5vh;
+    left: 16vh;
+    height: 30vh;
+    width: 30vh;
+    background-image: url('../Resources/logos.png');
+    background-size: 98%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20vh
+}
+
+.lower {
+    min-height: 70vh;
+    max-height: 70vh;
+    background-color: #005691;
+    max-width: 100%;
+}
+
+.footer {
+    min-height: 10vh;
+    background-color: #005691;
+    max-width: 100%;
+}
+
+.fcontainer {
+    max-width: 100% !important;
+    padding: 0 !important;
+}
+
+.cdlab {
+    padding: 2vh;
+    margin-top: 0.5vh;
+}
+
+.dlab {
+    width: 34vh;
+    height: 15vh;
+}
+
+.row {
+    margin-left: 0;
+}
+
+.login {
+    padding: 20vh;
+    max-height: 100%;
+}

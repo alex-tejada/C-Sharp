@@ -1,0 +1,22 @@
+﻿body {
+}
+.botonesa{
+    margin-top: 3vh;
+    width: 18vh;
+    height: 5.7vh;
+    padding: 0;
+}
+
+.Imp-Select{
+    margin-top:1vh !important;
+    margin-bottom:1vh !important;
+}
+
+.LabImp
+{
+    padding-right:0 !important;
+}
+
+.CheckBoxFilter{
+    margin-top:1rem !important;
+}

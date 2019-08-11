@@ -1,0 +1,321 @@
+﻿body {
+    font-family:'Bosch Office Sans';
+}
+.bg-sugg{
+    background-color:#005691;
+    font-size: 3vh;
+    color: white;
+
+}
+
+
+.loading{
+    position: absolute;
+    z-index: 1030;
+    margin-top: 12%;
+    margin-left: 40%;
+}
+
+.scrollable{
+    height: 33rem;
+    overflow: scroll;
+    padding:0;
+}
+
+.scrollable2{
+    height: 30vh;
+    overflow: scroll;
+    padding:0;
+}
+
+.scrollable3{
+    height: 55vh;
+    overflow: scroll;
+    padding:0;
+    z-index:0;
+}
+
+.LabelOrig{
+    float:right;
+}
+
+.nav-click 
+{
+
+}
+.table-filters {
+   width:-moz-available;
+}
+
+
+.table-filtro-head
+{
+    background-color:#d9d9d9;
+}
+
+
+.dtHorizontalVerticalExampleWrapper {
+max-width: 600px;
+margin: 0 auto;
+}
+#dtHorizontalVerticalExample th, td {
+white-space: nowrap;
+}
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+bottom: .5em;
+}
+
+.filtros-txt{
+ text-align:center;
+}
+.filtros-txt:hover
+{
+    cursor:pointer;   
+}
+
+.filtros-txt:-moz-read-only
+{
+    background-color: white;
+}
+
+.btn-delete {
+    width: 2rem;
+    height: 2.5rem;
+    float:right;
+    cursor:pointer;
+}
+
+.bg-sugg-cuenta
+{
+    background-color:white;
+    font-size: 2.5vh;
+    color: #005691;
+}
+.suggnav{
+    min-height:10vh;
+}
+.navbar-toggler{
+    margin-left: 2vh;
+}
+.navbar-toggler-icon{
+    width: 5vh;
+    height: 5vh;
+    color: white;
+    background-image: url('../Resources/navimg.png') !important;
+    background-repeat: no-repeat;
+    
+}
+.custom-toggler {
+    color:white !important;
+    
+  }
+
+.custom-toggler.navbar-toggler {
+  border-color: rgba(225, 225, 225, 0);
+}
+
+.btn-click:hover {
+ color: #080C6F !important;
+ cursor:pointer;
+}
+
+.btn-click{
+    color:white;
+}
+
+a {
+    color: white;
+}
+a:hover{
+    color:  #080C6F;
+}
+.pos-f-t{
+    max-height: 10vh;
+}
+.contenido{
+    max-height: 90vh;
+    margin:0;
+    padding-left:8vh;
+    padding-right:8vh;
+    max-width:100%;
+}
+
+.contenido-filtros{
+    max-height: 90vh;
+    margin:0;
+    padding-left:4vh;
+    padding-right:4vh;
+    max-width:100%;
+}
+
+.inside{
+    height:100%;
+}
+.menu{
+    padding-top:10vh;
+}
+.btns{
+    width: 23vh;
+    height: 20vh;
+    margin-bottom: 5vh;
+    z-index:-12;
+}
+.btns:hover{
+    cursor:pointer;
+}
+.btns3{
+    width: 27vh;
+    height: 23vh;
+    margin-bottom: 5vh;
+    z-index:-12;
+}
+.btns3:hover{
+    cursor:pointer;
+}
+.btns4{
+    width: 27vh;
+    height: 27vh;
+    margin-bottom: 5vh;
+    z-index:-12;
+}
+.btns4:hover{
+    cursor:pointer;
+}
+
+.btns2{
+    width: 25vh;
+    height: 23vh;
+    margin-bottom: 5vh;
+    z-index:-12;
+}
+
+.btn-aceptar {
+    border: none;
+    cursor: pointer;
+    background-color:transparent;
+}
+
+
+.btns2:hover{
+    cursor:pointer;
+}
+.menu2{
+    padding-top:7vh;
+    font-size:2.6vh;
+    color: #005691;
+}
+.user{
+    width:10vh;
+    height:15vh;
+}
+
+.div-logo
+{
+    float:right;
+}
+
+.div-logo:hover
+{
+    cursor:pointer;
+}
+
+.logo{
+    width:30vh;
+    height:13vh;
+}
+
+#nav{
+    z-index:9999;
+}
+.logoesquina{
+    margin: 1vh;
+    width: 12vh;
+    height: 10vh;
+}
+
+
+
+
+
+.enc{
+    position: absolute;
+    z-index: 1;
+    max-width: 100%;
+    min-width: 100%;
+}
+.modal-header .close {
+    padding: 1rem 1rem;
+    margin: -1rem 0rem -1rem -1rem;
+    font-size: 2rem;
+    color: white;
+}
+.modal-header {
+    display: -webkit-box;
+    background-color: #005691;
+    color:white;
+    font-weight:bold;
+    font-family:'Bosch Office Sans';
+}
+.modal-title{
+    font-weight:bold;
+    font-family:'Bosch Office Sans';
+    padding-left: 1rem;
+    border-left: 3px solid white;
+}
+.botonmodal{
+    width:12vh;
+    height:4vh;
+    cursor:pointer;
+}
+.excelb{
+    width:6vh;
+    height:5vh;
+    cursor:pointer;
+}
+.modal-footer{
+    text-align: center;
+    display: unset;
+}
+
+
+.rep{
+    text-align:center;
+    border-color: #005691;
+    border-style: solid;
+    border-width: 0.2vh;
+}
+
+.RepHead
+{
+    margin-bottom: 3vh;
+    align-items:center;
+    padding-top: 8vh;
+}
+.RepTitle
+{
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+
+.ReadOnly {
+}
+
+.ReadOnly:-moz-read-only{
+    background-color: #fbfbfb;
+    text-align:center;
+}
+
+
+.ReadOnly:read-only{
+
+}

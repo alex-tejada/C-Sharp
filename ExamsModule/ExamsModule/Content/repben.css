@@ -1,0 +1,45 @@
+﻿body {
+}
+tbody{
+    background-color: white;
+    padding-top: 2vh;
+
+}
+thead{
+    background-color: #005691;
+    color:white;
+}
+table{
+    box-shadow: 1vh 1vh 5vh #d9d9d9;
+    text-align:center;
+    font-size: 2vh;
+    border-collapse: collapse;
+}
+tr{
+    border:none;
+}
+.outertable{
+    padding-left:8vh;
+    padding-right:8vh;
+}
+.fechassp{
+    padding-right:7vh;
+    padding-top: 7vh;
+}
+.ops{
+    width: 8vh;
+    height: 8vh;
+    margin:8vh;
+    cursor:pointer;
+}
+.outops{
+
+}
+
+.icons{
+    text-align:center;
+}
+
+.tbl-reportes{
+    z-index:0;
+}

@@ -1,0 +1,31 @@
+﻿body {
+}
+.centro{
+    text-align:center;
+    padding: 2vh;
+    font-family: 'Bosch Office Sans';
+    color: #005691;
+}
+h1{
+    font-size:3vh;
+}
+.cuadros{
+    width:17vh;
+    height:17vh;
+    background-color:white;
+    text-align:center;
+    font-family: 'Bosch Office Sans';
+    padding-top:3vh;
+    color: ##005691;
+    box-shadow: 1vh 1vh 5vh #d9d9d9;
+}
+.cnumber{
+    padding-top:1vh;
+    font-size: 6vh;
+}
+h3{
+    font-size: 2vh;
+}
+.cuadromedio{
+    margin-top: 5vh;
+}

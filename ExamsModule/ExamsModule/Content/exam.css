@@ -1,0 +1,110 @@
+﻿.exam-header{
+    text-align:center;
+    margin:0 auto;
+}
+.exam-header input {
+       min-width:500px;
+       height:auto;
+       font-size:2em;
+ }
+.section-main {
+    width: 100%;
+    background-color: white;
+    padding:10px;
+}
+.section-main h1 
+{
+     text-align: center;
+}
+button {
+    border: 1px solid #606060;
+    border-radius: 20px;
+    width: auto;
+    height: 40px;
+}
+.exam-tools{
+    margin:0 auto;
+    padding:10px;
+}
+input{
+      border: 1px solid #606060;
+}
+.answer-spot
+{
+    margin-left:25px;
+}
+.question-text, .answer-text {
+    margin: 0 auto;
+    min-width: 500px;
+    font-size: 1em;
+    height: 40px;
+}
+#pregunta {
+    margin-left: 5px;
+}
+#respuesta {
+    margin-left: 10px;
+}
+hr{
+    width:100%;
+}
+img{
+    height:150px;
+    width:150px;
+    max-height:150px;
+    max-width:150px;
+}
+.question-text {
+    font-size: 1.5rem;
+}
+.question{
+    width:100%;
+    text-align:center;
+}
+.btn-danger, .btn-primary, .btn-success, .btn-warning 
+{
+    border-radius:15px;
+    cursor:pointer;
+}
+.btn-danger img, .btn-warning img, .btn-primary img, .btn-success img 
+{
+        width: 30px;
+        height: 30px;
+}
+.form-row{
+    min-width:600px;
+}
+.img-check 
+{
+    max-height: 800px;
+    max-width: 800px;
+    height: auto;
+    width: auto;
+}
+.panel-warning 
+{
+    border: 1px solid #ffccd1;
+    border-radius: 10px;
+    background-color: #99323b;
+    color:white;
+}
+.set-overflow-x 
+{
+    overflow-x: auto;
+}
+.text-red
+{
+    color:red;
+}
+.text-green
+{
+    color:lawngreen;
+}
+.text-blue
+{
+    color: blue;
+}
+.text-grey
+{
+    color:grey;
+}

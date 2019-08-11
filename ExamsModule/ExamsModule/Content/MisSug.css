@@ -1,0 +1,126 @@
+﻿body {
+}
+.sugtable{
+    margin-top:7vh;
+}
+.sugtable2{
+    margin-top:4vh;
+}
+
+.scrollable-sug{
+        height: 21rem;
+        overflow: scroll;
+        padding:0;
+}
+
+.btn-file
+{
+    max-width:13vh;
+    max-height:8vh;
+    border-bottom: none !important;
+    vertical-align:middle;
+}
+
+#EvidenciaImp {
+display:none;
+
+}
+
+
+.tr{
+
+}
+.desh{background-color: #ffffff;}
+
+
+.desh:disabled{
+    background-color: #ffffff;
+}
+
+
+
+.Hist-Modal{
+    max-width:82vh;
+}
+
+.tr:hover
+{
+        background-color: #F0F0F0;
+        cursor:pointer;
+}
+
+tbody{
+    background-color: white;
+}
+thead{
+    background-color: #005691;
+    color:white;
+}
+table{
+    box-shadow: 1vh 1vh 5vh #888888;
+    text-align:center;
+    font-size: 2vh;
+    margin-bottom: 0rem !important;
+}
+tr{
+    border:none;
+}
+p{
+    font-size: 1.7vh;
+    font-weight: bold;
+    color: #606060;
+}
+.lainfo{
+    margin-top: 2vh;
+    text-align:center;
+
+}
+.outertable{
+    padding-left:8vh;
+    padding-right:8vh;
+}
+
+.buscar-sug
+{
+    max-width: 25vh;
+    font-size: 2vh;
+    font-weight: bold;
+    margin-left: 5vh;
+    border-color: #005691 !important;
+    border-style: solid !important;
+    border-width: 0.2vh !important;
+    background-color: white;
+    text-align: center;
+    margin-right: 5vh;
+}
+
+.sug-text{
+    width: 100%;
+    background-color:#F9F9F9;
+    border-style: solid;
+    max-height: 6vh;
+    border-color: #898989;
+    border-width: 0.2vh;
+    font-size: 1.8vh;
+    color: #252629;
+
+
+}
+
+.sug-text2{
+    width: 100%;
+    background-color:#FEFEFE;
+    border-style: solid;
+    max-height: 6vh;
+    border-color: #898989;
+    border-width: 0.2vh;
+    font-size: 1.8vh;
+    color: #252629;
+
+
+}
+
+.menu3
+{
+    padding-top: 8vh;
+}

@@ -1,0 +1,236 @@
+﻿body {
+}
+.formu{
+    box-shadow: 1vh 1vh 5vh #888888;
+    padding:1.5vh;
+}
+.oformu{
+    padding-right: 14vh;
+}
+.lumna1{
+    border-right: 0.2vh solid #005691;
+    padding: 1vh;
+}
+
+.lumna2{
+    border-right: 0.2vh solid #005691;    
+}
+label{
+    font-size: 1.7vh;
+    font-weight: bold;
+    color: #606060;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+input{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 2px solid #606060 !important;
+    border-radius: 0 !important;
+}
+input:focus{
+    border-top:none;
+    border-left:none;
+    border-left:none;
+}
+select{
+    border: none !important;
+    border-radius: 0 !important;
+    width: 100%;
+    cursor:pointer;
+}
+selct:focus{
+    border-top:none;
+    border-left:none;
+    border-left:none;
+}
+
+
+.select3{
+    border: 1px solid #ccc;
+    overflow: hidden; 
+    height: 40px;    
+    width: 240px;
+    position: relative;
+    display: block;
+    border-bottom: 2px solid #606060 !important;
+    border-top:none;
+    border-right:none;    
+    border-left:none;
+    width: 100%;
+    font-size: 1.8vh;
+    font-weight:lighter;
+    color:#000000;
+}
+
+.select3:after {    
+    position: absolute; right: 0; top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;      
+    pointer-events: none;
+    box-sizing: border-box;   
+}
+
+
+.select {
+    border: 1px solid #ccc;
+    overflow: hidden; 
+    height: 40px;    
+    width: 240px;
+    position: relative;
+    display: block;
+    border-bottom: 2px solid #606060 !important;
+    border-top:none;
+    border-right:none;    
+    border-left:none;
+    width: 100%;
+
+}
+.select2 {
+    border: 1px solid #ccc;
+    overflow: hidden; 
+    height: 40px;    
+    width: 240px;
+    position: relative;
+    display: block;
+    border-bottom: 2px solid #606060 !important;
+    border-top:none;
+    border-right:none;    
+    border-left:none;
+    width: 25vh;
+
+}
+.redcosto{
+    border: 0.5px solid #898989 !important;
+    max-width: 7vh;
+    font-size:1.7vh;
+    margin-left: 2vh;
+    background-color: #F5F5F5;
+}
+
+select{      
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.select:after {
+    content:"\f13a";
+    color:#005691;
+    font-family: FontAwesome;
+    position: absolute; right: 0; top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;      
+    pointer-events: none;
+    box-sizing: border-box;   
+}
+.select2:after {    
+    color:#005691;
+    font-family: FontAwesome;
+    position: absolute; right: 0; top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;      
+    pointer-events: none;
+    box-sizing: border-box;   
+}
+.arch{
+
+}
+.txta{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: 3vh;
+    font-size: 1.7vh;
+}
+.lblhand{
+    cursor: pointer;
+}
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+.colfile{
+    border-bottom: 2px solid #606060 !important;
+}
+.fileContainer{
+    text-align:right;
+}
+.dispfile{
+    margin-right: 2vh;
+}
+.captura{
+    border-radius: 0.25rem !important;
+    border:none !important;
+    background-color:#005691;
+    margin-top:2vh;
+}
+
+.captura:hover{
+    background-color: #084593;
+}
+
+.file-button{
+   padding-top:1vh;
+    max-width:15vh;
+    max-height:12vh;
+    padding-bottom:1vh;
+}
+
+.file-button2{
+    max-width:13vh;
+    max-height:6vh;
+}
+
+
+.subir{
+    width: 4vh;
+    height: 4vh;
+}
+.rdm{
+    font-size:1.5vh;
+}
+
+
+.scrollable-rep{
+    height: 42vh;
+    overflow:scroll;
+    padding:0;
+}
+ 
+.Rep-Table
+{
+    background-color: #dddddd;
+}
+
+
+.ops {
+    width: 8vh;
+    height: 8vh;
+    margin-top: 2vh;
+}
+
+.sug-text{
+    width: 100%;
+    background-color:#F9F9F9;
+    border-style: solid;
+    max-height: 7vh;
+    border-color: #898989;
+    border-width: 0.2vh;
+    font-size: 1.8vh;
+    color: #252629;
+}
+
+
+.div-filter{
+    width: 100%;
+}

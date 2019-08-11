@@ -1,0 +1,362 @@
+﻿body {
+}
+
+.formu {
+    box-shadow: 1vh 1vh 5vh #888888;
+    /*display: inline-block;*/
+    padding: 1.5vh;
+    margin: 0 auto;
+}
+
+.oformu {
+    padding-right: 14vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-group, .btn-group-vertical {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn-toolbar .btn, .btn-toolbar .btn-group, .btn-toolbar .input-group {
+    text-align: center;
+    align-content: center;
+}
+
+.lumna1 {
+    border-right: 0.2vh solid #005691; /*#78BE20;*/
+    padding: 1vh;
+}
+rowN {
+    border-top: 0.2vh;
+    padding:1vh;
+}
+.rowDivision {
+    border-bottom: 0.5vh solid #005691; /*#78BE20;*/
+    padding: 1vh;
+}
+
+.rowDivisionSub {
+    border-bottom: 0.5vh double #005691; /* #78BE20;*/
+    padding: 1vh;
+}
+
+label {
+    font-size: 1.7vh;
+    font-weight: normal;
+    text-decoration-color:#000000;
+    color: #000000;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+input[type=text]{
+    color:black;
+}
+
+input {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 2px solid #606060 !important;
+    border-radius: 0 !important;
+}
+
+    input:focus {
+        border-top: none;
+        border-left: none;
+        border-left: none;
+    }
+
+select {
+    border: none !important;
+    border-radius: 0 !important;
+    width: 100%;
+    cursor: pointer;
+}
+
+selct:focus {
+    border-top: none;
+    border-left: none;
+    border-left: none;
+}
+
+.select {
+    border: 1px solid #ccc;
+    overflow: hidden;
+    height: 40px;
+    width: 240px;
+    position: relative;
+    display: block;
+    border-bottom: 2px solid #606060 !important;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 100%;
+}
+
+.select2 {
+    border: 1px solid #ccc;
+    overflow: hidden;
+    height: 40px;
+    width: 240px;
+    position: relative;
+    display: block;
+    border-bottom: 2px solid #606060 !important;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 25vh;
+}
+
+.redcosto {
+    border-bottom: 0.5px solid #bfbfbf !important;
+    max-width: 5vh;
+    font-size: 1.5vh;
+    margin-left: 1vh;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.select:after {
+    content: "\f13a";
+    color: #005691;
+    font-family: FontAwesome;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.select2:after {
+    content: "\f13a";
+    color: #005691;
+    font-family: FontAwesome;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.arch {
+}
+
+.txta {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: 3vh;
+    font-size: 1.3vh;
+}
+
+.lblhand {
+    cursor: pointer;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.colfile {
+    border-bottom: 2px solid #606060 !important;
+}
+
+.fileContainer {
+    text-align: right;
+}
+
+.dispfile {
+    margin-right: 2vh;
+}
+
+.captura {
+    border-radius: 0.25rem !important;
+    border: none !important;
+    background-color: #005691;
+}
+
+    .captura:hover {
+        background-color: #3869FF;
+    }
+
+.subir {
+    width: 4vh;
+    height: 4vh;
+}
+
+.rdm {
+    font-size: 1.5vh;
+}
+
+/*
+fieldset {
+    border: 1px solid rgb(255,232,57);
+    width: 400px;
+    margin:auto;
+    box-shadow: 1vh 1vh 5vh #888888;
+    padding: 1.5vh;
+    margin: 0 auto;
+    width: 70%;
+    display: inline-block;
+    margin-top: 10vh;
+}
+
+input[type=text], input[type=password], select {
+    width: 100%;
+    margin: 10px 0;
+    height: 40px;
+    padding: 5px;
+    border: 3px solid #ecb0dc;
+    border-radius: 4px;
+}
+
+input[type=submit], input[type=button] {
+    width: 120px;
+    margin: 15px 25px;
+    padding: 5px;
+    height: 40px;
+    background-color: #a0522d;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-family: 'Droid Serif',serif
+}
+
+h2, p {
+    text-align: center;
+    font-family: 'Droid Serif',serif
+}
+
+li {
+    margin-right: 52px;
+    display: inline;
+    color: #c1c5cc;
+    font-family: 'Droid Serif',serif
+}
+    */
+
+    /*form styles*/
+    @import "http://fonts.googleapis.com/css?family=Droid+Serif"; /* This Line is to import Google font style */
+    /*
+.content {
+    width: 960px;
+    margin: 20px auto
+}
+
+.main {
+    float: left;
+    width: 650px;
+    margin-top: 80px
+}
+
+#progressbar {
+    margin: 0;
+    padding: 0;
+    font-size: 18px
+}
+
+#active1 {
+    color: red
+}
+
+fieldset {
+    /*
+    #display: none;
+    #width: 350px;
+    #padding: 20px;
+    #margin-top: 50px;
+    #margin-left: 85px;
+    #border-radius: 5px;
+    #box-shadow: 3px 3px 25px 1px gray;
+
+    #padding: 1.5vh;
+    #margin: 0 auto;
+    #width: 70%;
+    #display: inline-block;
+    #margin-top: 10vh;
+
+
+
+    border: 1px solid rgb(255,232,57);
+    width: 400px;
+    margin:auto;
+    box-shadow: 1vh 1vh 5vh #888888;
+    padding: 1.5vh;
+    margin: 0 auto;
+    width: 70%;
+    display: inline-block;
+    margin-top: 10vh;
+}
+
+#first {
+    display: block;
+    width: 350px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-left: 85px;
+    box-shadow: 3px 3px 25px 1px gray box-shadow: 1vh 1vh 5vh #888888;
+}
+
+input[type=text], input[type=password], select {
+    width: 100%;
+    margin: 10px 0;
+    height: 40px;
+    padding: 5px;
+    border: 3px solid #ecb0dc;
+    border-radius: 4px
+}
+
+textarea {
+    width: 100%;
+    margin: 10px 0;
+    height: 70px;
+    padding: 5px;
+    border: 3px solid #ecb0dc;
+    border-radius: 4px
+}
+
+input[type=submit], input[type=button] {
+    width: 120px;
+    margin: 15px 25px;
+    padding: 5px;
+    height: 40px;
+    background-color: #a0522d;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-family: 'Droid Serif',serif
+}
+
+h2, p {
+    text-align: center;
+    font-family: 'Droid Serif',serif
+}
+
+li {
+    margin-right: 52px;
+    display: inline;
+    color: #c1c5cc;
+    font-family: 'Droid Serif',serif
+}
+*/
