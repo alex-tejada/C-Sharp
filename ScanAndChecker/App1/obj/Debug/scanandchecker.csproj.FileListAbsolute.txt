@@ -1,0 +1,81 @@
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\FastMember.Signed.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\MySql.Data.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\System.IO.Packaging.dll
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.xml
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.pdb
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.pdb
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\MySql.Data.xml
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.csproj.ResolveComReference.cache
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\App1.Ayuda.resources
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\App1.Form1.resources
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\App1.ServerConfig.resources
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\scanandchecker.exe.config
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\scanandchecker.exe
+C:\Users\julio\Desktop\Delphi\App1\App1\bin\Debug\scanandchecker.pdb
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.Properties.Resources.resources
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.exe
+C:\Users\julio\Desktop\Delphi\App1\App1\obj\Debug\scanandchecker.pdb
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\scanandchecker.exe.config
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\scanandchecker.exe
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\scanandchecker.pdb
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\FastMember.Signed.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\MySql.Data.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\System.IO.Packaging.dll
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.xml
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.pdb
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.pdb
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\bin\Debug\MySql.Data.xml
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.csproj.ResolveComReference.cache
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\App1.Ayuda.resources
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\App1.Form1.resources
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.Properties.Resources.resources
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\App1.ServerConfig.resources
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.exe
+C:\Users\julio\Desktop\VisualStudioProjects 2017\App1\App1\obj\Debug\scanandchecker.pdb
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\scanandchecker.exe.config
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\scanandchecker.exe
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\scanandchecker.pdb
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\FastMember.Signed.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\System.IO.Packaging.dll
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.xml
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.Extensions.AspNet.pdb
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\ClosedXML.Extensions.MVC.pdb
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\alex-\Desktop\App1\App1\bin\Debug\MySql.Data.xml
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.csproj.ResolveComReference.cache
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\App1.Ayuda.resources
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\App1.Form1.resources
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.Properties.Resources.resources
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\App1.ServerConfig.resources
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.csproj.CopyComplete
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.exe
+C:\Users\alex-\Desktop\App1\App1\obj\Debug\scanandchecker.pdb
